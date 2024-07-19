@@ -1,0 +1,38 @@
+elements:
+  - name: "The Art of Computer Programming"
+    id: 0
+    parentId: 3
+    type: "item"
+
+  - name: "War and Peace"
+    id: 1
+    parentId: 2
+    type: "item"
+
+  - name: "Tolstoi, Leo"
+    id: 2
+    parentId: 6
+    type: "collection"
+
+  - name: "Knuth, E"
+    id: 3
+    parentId: 5
+    type: "collection"
+
+  - name: "Manga"
+    id: 4
+    type: "collection"
+
+  - name: "Non Fiction"
+    id: 5
+    type: "collection"
+
+  - name: "History"
+    id: 6
+    parentId: 2
+    type: "collection"
+
+  - name: "Fiction"
+    id: 7
+    parentId: 6
+    type: "collection"
