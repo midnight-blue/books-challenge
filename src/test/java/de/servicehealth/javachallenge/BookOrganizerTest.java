@@ -34,7 +34,6 @@ public class BookOrganizerTest {
 
 	}
 
-
 	private void checkAgainstExpected(String testCase, Collection<String> results) {
 		List<String> expected = this.loadExpected(testCase);
 		var sortedResult = results.stream().sorted().toList();
@@ -52,7 +51,6 @@ public class BookOrganizerTest {
 		Expected elements = loadResource("cases/" + testCase + "/expected.yaml", Expected.class);
 		return elements.getExpected();
 	}
-
 
 	private <T> T loadResource(String path, Class<T> clazz) {
 		InputStream inputStream = this.getClass().getClassLoader().getResourceAsStream(path);
