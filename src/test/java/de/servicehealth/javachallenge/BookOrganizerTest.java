@@ -38,7 +38,7 @@ public class BookOrganizerTest {
 		List<String> expected = this.loadExpected(testCase);
 		var sortedResult = results.stream().sorted().toList();
 		for (int i = 0; i < sortedResult.size(); i++) {
-			assertEquals(sortedResult.get(i), expected.get(i));
+			assertEquals(expected.get(i), sortedResult.get(i));
 		}
 	}
 
