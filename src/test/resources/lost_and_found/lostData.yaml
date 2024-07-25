@@ -1,0 +1,9 @@
+elements:
+  - time: 2024-05-01T00:00:00Z
+    description: "Green glasses in a blue case"
+    location: "52.50733107393388, 13.419465670122026"
+
+  - time: 2024-07-01T00:00:00Z
+    description: "Antique room with beautiful amber interior"
+    location: "52.517072683216696, 13.400834462209513"
+

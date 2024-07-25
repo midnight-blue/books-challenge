@@ -1,0 +1,33 @@
+elements:
+  - time: 2024-05-01T10:00:00Z
+    description: "Glasses, green, in case"
+    location: "52.50749847715315, 13.421228723005406"
+
+  - time: 2024-05-05T01:00:00Z
+    description: "Glasses, green, in a blue case"
+    location: "52.50776460403535, 13.419190633872217"
+
+  - time: 2024-05-01T02:00:00Z
+    description: "Black goggles in a red case"
+    location: "52.50685436397745, 13.419540799713547"
+
+  - time: 2024-05-01T03:00:00Z
+    description: "Green glasses with a blue case"
+    location: "52.506395945165956, 13.442081221127829"
+
+
+  - time: 2024-07-01T09:00:00Z
+    description: "Old room with amber interior"
+    location: "52.51997349411251, 13.398119954143208"
+
+  - time: 2024-09-14T00:00:00Z
+    description: "Room, antique with pretty amber interior"
+    location: "52.51621715353914, 13.400879128146867"
+
+  - time: 2024-07-01T01:00:00Z
+    description: "Large ballroom decorted with mirrors"
+    location: "52.517607785526494, 13.398561699576284"
+
+  - time: 2024-07-01T02:00:00Z
+    description: "Antique place with beautiful amber interior"
+    location: "52.515907972192224, 13.377143292237323"
