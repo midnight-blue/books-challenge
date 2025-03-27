@@ -1,6 +1,6 @@
 # Books Challenge
 
-Gegeben ist eine List bestehend aus Elementen und Sammlungen.
+Gegeben ist eine Liste bestehend aus Elementen und Sammlungen.
 
 ```yaml
   - name: "The Art of Computer Programming"
